@@ -20,3 +20,12 @@ c) Remvoe null data from data frame
 d) Delete the "nue" label from data to simplify the model
 
 ...............................................................................................................................................................
+
+# EDA(Explotory Data Analysis)
+The following were done:
+
+a) Pass text_clean function on "text" column to remove punctuation and clean the text
+
+b) Do some EDA 
+
+![air_sent_word_count](https://user-images.githubusercontent.com/71351619/134270824-5e199709-7739-42e4-b4a5-38288364a2ed.png)
