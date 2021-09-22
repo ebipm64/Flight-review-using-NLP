@@ -10,8 +10,12 @@ A sentiment analysis job about the problems of each major U.S. airline. Twitter 
 ...............................................................................................................................................................
 # Data Cleaning
 The following were performed:
+
 a) Check for null data
+
 b) Remove unnecessary columns
+
 c) Remvoe null data from data frame
+
 d) Delete the "nue" label from data to simplify the model
 ...............................................................................................................................................................
