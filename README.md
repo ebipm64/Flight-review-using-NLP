@@ -18,4 +18,5 @@ b) Remove unnecessary columns
 c) Remvoe null data from data frame
 
 d) Delete the "nue" label from data to simplify the model
+
 ...............................................................................................................................................................
