@@ -32,6 +32,10 @@ b-1) Boxplot
 
 ![air_sent_word_count](https://user-images.githubusercontent.com/71351619/134270824-5e199709-7739-42e4-b4a5-38288364a2ed.png)
 
-b-2)
+b-2) Air_line count
 
 ![air_vs_count](https://user-images.githubusercontent.com/71351619/134270935-058cf5b9-d473-4214-a435-b63ce42012f9.png)
+
+b-3) text length distribution based on the label
+
+![text_length_vs_target](https://user-images.githubusercontent.com/71351619/134271034-56ac02fe-25ac-40f8-a175-b94b3452a3f9.png)
