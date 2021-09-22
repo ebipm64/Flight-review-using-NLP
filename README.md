@@ -31,3 +31,5 @@ b) Do some EDA
 b-1) Boxplot
 
 ![air_sent_word_count](https://user-images.githubusercontent.com/71351619/134270824-5e199709-7739-42e4-b4a5-38288364a2ed.png)
+
+b-2)![air_vs_count](https://user-images.githubusercontent.com/71351619/134270935-058cf5b9-d473-4214-a435-b63ce42012f9.png)
