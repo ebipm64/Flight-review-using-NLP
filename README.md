@@ -68,7 +68,13 @@ b) Comparing the models metrics it's seen the SVC algorithm worked the best
 
 
 
+
+
+
 <img width="495" alt="confusion matrixPNG" src="https://user-images.githubusercontent.com/71351619/134781393-8dba238c-54e3-4a46-8d9d-f11c5ce80f30.PNG">
+
+
+
 
 
 
