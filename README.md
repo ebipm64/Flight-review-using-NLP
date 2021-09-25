@@ -55,3 +55,23 @@ b) Use the following algorithms and compare the results
 4. Naive Base
 5. RandomForest
 6. GradientBoosting
+...............................................................................................................................................................
+# Models Evaluation
+a) For evalauting the model use the following metrics:
+1. Classificaion Report
+2. Confusion_matrix
+3. Plot_confusion_matrix
+
+b) Comparing the models metrics it's seen the SVC algorithm worked the best
+
+![ROC_SVC](https://user-images.githubusercontent.com/71351619/134781344-efddc1c2-1b95-4e81-8081-a69be32a6965.png)
+
+
+<img width="495" alt="confusion matrixPNG" src="https://user-images.githubusercontent.com/71351619/134781393-8dba238c-54e3-4a46-8d9d-f11c5ce80f30.PNG">
+
+
+<img width="364" alt="classification report" src="https://user-images.githubusercontent.com/71351619/134781416-79b39780-6a4d-4384-b4d4-c5ca9be6deeb.PNG">
+
+
+
+ 
